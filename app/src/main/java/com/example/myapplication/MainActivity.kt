@@ -12,12 +12,13 @@ import com.google.firebase.ktx.Firebase
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
+    val db = Firebase.firestore
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val db = Firebase.firestore
 
+      // save to firebase
          save.setOnClickListener{
              var name=  PersonID.text.toString()
              var id=  PersonName.text.toString()
