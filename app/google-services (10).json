@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57828811320",
+    "project_id": "hamas-bb627",
+    "storage_bucket": "hamas-bb627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57828811320:android:655a7c63bd22fd9e75fccd",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57828811320-1f7th64hj0n8orrc9itbq69ornam1gne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVxm4pvbAV6dPBUhQOk_gyxyJINX6nvgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57828811320-1f7th64hj0n8orrc9itbq69ornam1gne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
